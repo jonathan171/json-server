@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "fecha": "2020-11-16",
+    "encargado": {
+      "id": "Kulas Light",
+      "nombres": "Chapatin",
+      "apellidos": "chespirito"
+      },
+    "cita_id": "1"
+  }
+]
